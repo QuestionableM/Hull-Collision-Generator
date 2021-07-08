@@ -42,7 +42,7 @@ void _InfoGui::GithubRepo_LLBL_LinkClicked(
 	System::Object^ sender,
 	System::Windows::Forms::LinkLabelLinkClickedEventArgs^ e
 ) {
-	//add the link to the repository here later
+	System::Diagnostics::Process::Start(L"https://github.com/QuestionableM/Hull-Collision-Generator");
 }
 
 void _InfoGui::Assimp_LLBL_LinkClicked(

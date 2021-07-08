@@ -1,2 +1,2 @@
 #pragma once
-#define HCG_BUILD_VERSION 88
+#define HCG_BUILD_VERSION 92
