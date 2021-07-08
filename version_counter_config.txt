@@ -1,0 +1,2 @@
+./Code/BuildVersion.h
+HCG_BUILD_VERSION
